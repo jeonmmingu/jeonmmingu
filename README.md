@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there! 你好! こんにちは! 안녕하세요!
 
-<!--
-**jeonmmingu/jeonmmingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me  
+- 🔭 **Currently Working On**: Building something amazing at home.  
+- 🌱 **Currently Learning**: `Dart`, `Flutter`, `Swift`, `iOS` development!  
+- 💬 **Ask Me About**: Planning and creating cool services.  
+- 📫 **How to Reach Me**: [jeonalsrn@gmail.com](mailto:jeonalsrn@gmail.com)  
+- ⚡ **Fun Fact**: My name is Mingu `민구` 😊  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills  
+- **Languages**: `Swift`, `Dart`, `Python`, `C++`, `Java`  
+- **Frameworks**: `Flutter`, `iOS Development`  
+
+---
+
+### 🗂 My DB  
+📖 Blog: [Mingu's Programming Blog](https://mins-programming.tistory.com)  
+
+---
+
+### 📅 ReadMe Log  
+- **2025.01.23.** Thu  
+
+---
